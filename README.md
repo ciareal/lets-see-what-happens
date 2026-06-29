@@ -1,6 +1,6 @@
-# Nazi Zombies: Portable — runnable web build
+# Dead Zombies: Portable — runnable web build
 
-This repository packages **[Nazi Zombies: Portable](https://github.com/nzp-team/nzportable)**
+This repository packages **[Dead Zombies: Portable](https://github.com/nzp-team/nzportable)**
 (a Call of Duty: Zombies de-make built on the **FTEQW** Quake engine) as a
 browser-runnable WebAssembly build that you can host yourself.
 
@@ -73,7 +73,7 @@ The only change from upstream is removal of an external hit-counter beacon
 
 ## Credits & licensing
 
-Nazi Zombies: Portable is a community project by the
+Dead Zombies: Portable is a community project by the
 [NZ:P Team](https://github.com/nzp-team). FTEQW is by Spike. All game content,
 engine code, and trademarks belong to their respective authors — see the
 upstream repositories for license terms. This repo only re-packages their

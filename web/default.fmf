@@ -1,5 +1,5 @@
 game nzp
-name "Nazi Zombies Portable"
+name "Dead Zombies Portable"
 basegame nzp
 mainconfig "nzportable.cfg"
 disablehomedir 1
